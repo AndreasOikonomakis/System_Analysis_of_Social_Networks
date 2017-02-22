@@ -1,0 +1,13 @@
+id|firstName|lastName|gender|birthday|creationDate|locationIP|browserUsed
+5|lonely|loner|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome 
+1|herald|kllapi|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome 
+2|marialena|kiriakidi|female|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+10|antonia|saravanou|female|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+6|manos|karvounis|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+3|giannis|chronis|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+4|christoforos|sfiggos|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+7|stamatis|xristoforidis|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+8|xristos|mallios|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+14|johnny|depp|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+12|fox|mulder|male|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
+16|dana|scully|female|1986-12-04|2010-04-10T10:52:28Z|1.2.0.21|Chrome  
